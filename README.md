@@ -6,6 +6,7 @@
 
 <h2>🗒️ Certifications</h2>
 
+- [CompTIA A+ Cyber](https://www.coursera.org/account/accomplishments/verify/A5JZ6PQ22UG2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/ZJJG5HVZ5AZN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 <h2> 🤳 Connect with me:</h2>
