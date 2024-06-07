@@ -3,11 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/cecilianguyencg/ActiveDirectoryLab)
+- [Creating New Group Policy Object](https://github.com/cecilianguyencg/GroupPolicyObject)
 
 <h2>🗒️ Certifications</h2>
 
 - [CompTIA A+ Cyber](https://www.coursera.org/account/accomplishments/verify/A5JZ6PQ22UG2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/ZJJG5HVZ5AZN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [Jamf Pro Certified Associate](https://www.credly.com/badges/9e4ec862-7b03-4a33-bef3-04e3337937ca/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
